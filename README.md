@@ -1,9 +1,9 @@
-# Android MVPArchiture Sample Project(weather app)
+# Android MVP Architecture Sample Project(weather app)
 
-# Retrofit
-# Java
-# RxJava
-# MVP design pattern
+* Retrofit
+* Java
+* RxJava
+* MVP design pattern
 
 
 Here is the example of Model View presenter (MVP) Pattern in android.
