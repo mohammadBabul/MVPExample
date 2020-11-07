@@ -5,10 +5,6 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
 
-/**
- * Created by newton on 7/6/17.
- */
-
 public class NetworkModule implements NetworkMonitor {
 
     private Context mContext;
