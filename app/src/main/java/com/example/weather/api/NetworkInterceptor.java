@@ -12,9 +12,7 @@ import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by newton on 7/6/17.
- */
+
 
 public class NetworkInterceptor implements Interceptor {
     @NotNull
