@@ -10,7 +10,7 @@ Here is the example of Model View presenter (MVP) Pattern in android.
 I develop a android application to show a weather data of a specific city, I used Dhaka. 
 
 
-MVP Architecture is one of the most popular  to develop a maintanable and testable codebase. Develop a sample `Weater data showing` Android App with `MVP Architecture` using `Java` language and `Retrofit`library for network calling. Using Rx Java for asynchronous programming.
+MVP Architecture is one of the most popular  to develop a maintanable and testable codebase. Develop a sample `Weater data showing` Android App with `MVP Architecture` using `Java` language and `Retrofit`library for network calling. Using Rx Java for asynchronous programming, know more about it (https://medium.com/@babul.sust.cse/what-is-reactive-programming-50514ded6e9)
 
 
 
