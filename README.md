@@ -15,8 +15,7 @@ MVP Architecture is one of the most popular  to develop a maintanable and testab
 
 
 ### Application Description
-Here is the example of Model View presenter (MVP) Pattern in android.
-We have developed a android application to show a weather data of a specific city, I used Dhaka. User need to hit the `View Weather` button. Then App will send request to Open Weather web API and show the weather information in the UI.
+Developed a android application to show a weather data of a specific city, I used Dhaka. User need to hit the `View Weather` button. Then App will send request to Open Weather web API and show the weather information in the UI.
 
 ### Open Weather API
 We will use [Open Weather Map API](https://openweathermap.org/api) for collecting weather data. For getting weather information of a city, you need to sign up and get your own `APP ID`. Otherwise you can test the API with their sample `BASE URL` and sample `APP ID` without creating account.
